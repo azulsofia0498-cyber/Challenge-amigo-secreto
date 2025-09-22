@@ -36,16 +36,14 @@ Podés vizualizar la página aquí: https://azulsofia0498-cyber.github.io/Challe
 * JavaScript
 
 ## ¿Cómo usar?
-### 1.Escribe un nombre en el campo de texto.
+ 1. Escribe un nombre en el campo de texto.
 
-### 2.Haz clic en Adicionar para agregarlo a la lista.
+ 2. Haz clic en Adicionar para agregarlo a la lista.
 
-### 3.Cuando tengas todos los nombres, presiona Sortear Amigo.
+ 3. Cuando tengas todos los nombres, presiona Sortear Amigo.
 
-### 4.El resultado aparecerá en pantalla.
+ 4. El resultado aparecerá en pantalla.
 
-## Deploy
-https://azulsofia0498-cyber.github.io/Challenge-amigo-secreto/
 
 ## Autor
 Proyecto desarrollado por Azul Sofía Martínez Sosa para el programa de Oracle y Alura Latam
